@@ -1,11 +1,26 @@
-# Codelab Modul3PemLan
-# Documentation Practice
+# Program Penghitung Rata-rata Nilai
 
-## 📌 Deskripsi
-Proyek ini dibuat untuk latihan dokumentasi pada Modul 3 Pemrograman Lanjut.  
-Program sederhana ini menampilkan pesan ke layar sebagai contoh penggunaan Java.
+## Deskripsi
+Program ini dibuat untuk menghitung **rata-rata dari beberapa nilai** yang dimasukkan oleh pengguna.  
+Pengguna dapat menentukan berapa banyak nilai yang ingin dimasukkan, lalu program akan:
+1. Menyimpan semua nilai ke dalam array.
+2. Menghitung dan menampilkan rata-rata dari semua nilai tersebut.
+3. Memberi Kata-Kata Hari Ini😁
 
-## 🧩 Cara Menjalankan
-1. Clone repository ini:
+Program ini ditulis dalam bahasa **Java** dan menggunakan **class Scanner** untuk menerima input dari pengguna.
+
+---
+
+## Fitur
+- Input jumlah nilai yang ingin dihitung.
+- Input nilai-nilai satu per satu.
+- Menampilkan daftar semua nilai, hasil rata-ratanya, dan kata-kata penyemangat hehe.
+- Validasi dasar agar input berupa angka.
+
+---
+
+## Cara Menjalankan
+- Pastikan Java sudah terpasang di komputer kamu.  
+   Cek dengan perintah:
    ```bash
-   git clone https://github.com/fiqriridho/PemLan_E_Fiqri_167.git
+   java -version
