@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Masukkan jumlah nilai: ");
+        System.out.print("Inputkan jumlah nilai: ");
         int jumlah = input.nextInt();
 
         double[] nilai = new double[jumlah];
