@@ -33,5 +33,16 @@ public class Main {
         System.out.println("\nRata-rata   : " + rataRata);
 
         input.close();
+
+        System.out.println("ahahahaahhahah");
+//        public void hitungDiskonTambahan() {
+//            if (getStok() > 100) {
+//                double hargaBaru = getHarga() * 0.9;
+//                System.out.println("Diskon tambahan 10%! Harga baru: Rp. " + hargaBaru);
+//            } else {
+//                System.out.println("Tidak ada diskon tambahan.");
+//            }
+//        }
+
     }
 }
